@@ -1,0 +1,218 @@
+.logo-view {
+  margin-left: 184px;
+  font-size: 25px;
+  margin-top: -17px;
+}
+.navbar-insta {
+  position: fixed;
+  background-color: #fff;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+  height: 60px;
+}
+.mt-50 {
+  margin-top: 95px;
+}
+.navbar-search  {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.nav-class {
+  height: 55px;
+  background-color: white;
+}
+.search-button {
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  border: none;
+  background: transparent;
+}
+
+.input-class {
+  margin-top: -1px;
+  margin-right: 5px;
+  width: 200px;
+  border-radius: 10px;
+  border: 1px solid whitesmoke;
+  box-shadow: none;
+  font-size: 15px;
+  appearance: none;
+}
+
+.logo-class {
+  display: flex;
+  align-items: center;
+  padding: 20x;
+  margin-bottom: 20px;
+  justify-content: flex-start;
+  gap: 20px;
+  margin-top: 10px;
+  margin-right: 250px;
+}
+
+.ev-class  {
+  margin-top: 25px;
+}
+
+.story-jpeg {
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  border: 2px solid rgb(238, 39, 82);
+}
+
+.story-card {
+  margin-left: 100px;
+  width: 750px;
+  height: 125px;
+}
+.story-card-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+.span-story {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  color: black;
+}
+a {
+  text-decoration: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+.list-class   {
+  justify-content: end;
+}
+
+.story-jpeg-list {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  border: 2px solid rgb(238, 39, 82);
+  margin: 10px;
+}
+
+.card-list {
+  height: 400px;
+  width: 300px;
+}
+
+.list-span {
+  font-weight: bold !important;
+  font-size: 15px !important;
+  color: black !important;
+}
+
+.senin-icin {
+  margin-left: 10px;
+  margin-top: 5px;
+  font-size: 10px;
+}
+.öneri-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  display: flex;
+  color: grey;
+  float: left;
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+.list-style {
+  list-style-type: none; /* Bullet noktalarını kaldırır */
+  padding-left: 0;
+}
+.story-jpeg-sag {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  border: 2px solid rgb(238, 39, 82);
+  margin: 10px;
+}
+
+.takip-class {
+  color: blue;
+}
+.post-jpeg {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  border: 2px solid rgb(238, 39, 82);
+}
+.card-post {
+  width: 750px;
+  margin-left: 100px;
+  margin-top: 20px;
+  height: 750px;
+}
+.card-img {
+  margin-left: 25px;
+  padding: 15px;
+  margin-top: 5px;
+}
+.list-span-dot {
+  font-weight: bold !important;
+  font-size: 25px !important;
+  color: black !important;
+}
+.font-button {
+  font-size: 20px;
+  margin-left: 60px;
+  gap: 0px;
+}
+.font-button-save {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 70px;
+}
+
+.like-comment-buttons {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding: 10px 30px;
+}
+
+.like-button-one {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.like-comment-buttons a {
+  font-size: 20px;
+}
+.bilgi-satiri {
+  margin-left: 25px;
+}
+.yorum-satiri {
+  margin-left: 25px;
+}
+.yorum-satiri-two {
+  margin-left: 25px;
+  margin-top: -15px;
+}
+.yorum-satiri-three {
+  margin-left: 25px;
+}
+.öneri-text-two {
+  margin-top: 5px;
+  font-size: 10px;
+}
